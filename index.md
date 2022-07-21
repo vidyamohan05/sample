@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<html>
 <html lang="en">
 
 <head>
@@ -11,4 +11,4 @@
 <body>
   <p>"Hello World"</p>
   </body>
-  </html?
+    </html>
